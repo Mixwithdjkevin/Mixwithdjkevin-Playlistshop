@@ -239,14 +239,14 @@ const DJApp = {
     {
       id: "course-offline",
       title: "OFFLINE IN-STUDIO ACADEMY PROGRAM",
-      subtitle: "Hands-On Practical Training On Pioneer CDJ-3000 & DJM-A9",
+      subtitle: "Hands-On Practical Training On Pioneer XDJ-RR & DDJ-400",
       badge: "In-Studio Experience",
       level: "Comprehensive Hands-On",
       duration: "8 Weeks (In-Person Studio Batch)",
       price: "₹29,999",
       image: "images/hero/dj-kevin-about.png",
       syllabus: [
-        "Direct physical training on industry standard Pioneer flagship gear",
+        "Direct physical training on Pioneer XDJ-RR & DDJ-400 equipment",
         "Scratching, turntablism, transformer & chirp scratch drills",
         "Club acoustic control, booth monitors & mixer gain staging",
         "Live audience reading, energy management & peak-hour sets",
